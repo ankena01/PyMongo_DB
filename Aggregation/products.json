@@ -1,0 +1,74 @@
+{
+	"_id": {
+		"$oid": "61bfd1ed3e529c9663cd6524"
+	},
+	"name": "Mug",
+	"seller_id": {
+		"$oid": "61bfd1ed3e529c9663cd651e"
+	},
+	"tags": [
+		"Home",
+		"Kitchen"
+	]
+}
+{
+	"_id": {
+		"$oid": "61bfd1ed3e529c9663cd6525"
+	},
+	"name": "Moisturizer",
+	"seller_id": {
+		"$oid": "61bfd1ed3e529c9663cd651e"
+	},
+	"tags": [
+		"Beauty"
+	]
+}
+{
+	"_id": {
+		"$oid": "61bfd1ed3e529c9663cd6526"
+	},
+	"name": "Pens",
+	"seller_id": {
+		"$oid": "61bfd1ed3e529c9663cd651f"
+	},
+	"tags": [
+		"Office",
+		"School"
+	]
+}
+{
+	"_id": {
+		"$oid": "61bfd1ed3e529c9663cd6527"
+	},
+	"name": "Face Cleanser",
+	"seller_id": {
+		"$oid": "61bfd1ed3e529c9663cd651e"
+	},
+	"tags": [
+		"Beauty"
+	]
+}
+{
+	"_id": {
+		"$oid": "61bfd1ed3e529c9663cd6528"
+	},
+	"name": "Concealer Makeup",
+	"seller_id": {
+		"$oid": "61bfd1ed3e529c9663cd6521"
+	},
+	"tags": [
+		"Beauty"
+	]
+}
+{
+	"_id": {
+		"$oid": "61bfd1ed3e529c9663cd6529"
+	},
+	"name": "Eyeliner",
+	"seller_id": {
+		"$oid": "61bfd1ed3e529c9663cd6522"
+	},
+	"tags": [
+		"Beauty"
+	]
+}
